@@ -7,4 +7,5 @@
 	background-color:red;
 	/* justify-items:center; */
 	align-items:center;
+	flex-direction:center;
 }
