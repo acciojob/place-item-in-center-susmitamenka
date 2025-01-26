@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	height:100px;
+	width:100px;
+	background-color:red;
+	/* justify-items:center; */
+	align-items:center;
+}
